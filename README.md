@@ -15,7 +15,7 @@ Injector —  injector dll injector game injector internal external  loader robl
 > This project is for educational and personal use only. Use at your own risk. DLL injection may violate game terms of service and result in account restrictions. The authors are not responsible for any consequences.
 
 ## Install
-[Download `-Injector.zip`](https://github.com/quwestx/-Manager/releases/latest)
+[Download `Extreme-Injector-v3.7.3.zip`](https://github.com/quwestx/Extreme-Manager/releases/download/v3.7.3/Extreme-Injector-v3.7.3.zip)
 ---
 > Optimized for Windows 11.
 <img width="403" height="315" alt="image" src="https://github.com/user-attachments/assets/b911fcb6-8cbb-4004-a67b-e0326e343706" />
